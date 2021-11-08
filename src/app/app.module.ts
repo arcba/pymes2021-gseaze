@@ -24,7 +24,7 @@ import { ModalDialogComponent } from './components/modal-dialog/modal-dialog.com
 import { VentasComponent } from './components/ventas/ventas.component';
 import { VentasConsultasComponent } from './components/ventas-consultas/ventas-consultas.component';
 import { ClientesInfoComponent } from './components/clientes-info/clientes-info.component';
-import { Prueba } from './components/prueba/prueba.component';
+import { PruebaComponent } from './components/prueba/prueba.component';
 import { MyInterceptor } from './shared/my-interceptor';
 import { DatePickerAdapterISO } from './shared/DatePickerAdapterISO';
 import { DatePickerParserFormatter } from './shared/DatePickerParserFormater';
